@@ -6,4 +6,4 @@ As always we are going to walk you up layers of abstraction. What that means is 
 
 Have a ton of fun. Rails changed the way Web Apps are developed over the past 10 years; enjoy the spoils of many open source contributors' hard work.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-rails' title='Welcome To Rails'>Welcome To Rails</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Welcome To Rails</p>
