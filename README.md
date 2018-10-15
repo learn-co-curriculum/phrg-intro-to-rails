@@ -6,4 +6,8 @@ As always we are going to walk you up layers of abstraction. What that means is 
 
 Have a ton of fun. Rails changed the way Web Apps are developed over the past 10 years; enjoy the spoils of many open source contributors' hard work.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-intro-to-rails/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-intro-to-rails/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Welcome To Rails</p>
